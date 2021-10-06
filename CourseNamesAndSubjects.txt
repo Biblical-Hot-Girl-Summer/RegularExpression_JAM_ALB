@@ -1,0 +1,1038 @@
+ACCT-101-ON Prin of Financial Accounting 3
+ACCT-102-ON Prin of Managerial Accounting 3
+ACCT-212-ON Financial Accounting II 3
+ACCT-225-ON Accounting Information Systems 3
+ACCT-313-ON Financial Accounting III 3
+ACCT-318-01 Taxation II 3
+ACCT-414-ON Financial Accounting IV 3
+ACCT-419-01 Auditing II 3
+ACCT-420-01 Data Analytics for Accounting 3
+ACCT-444-01 Accounting Internship 1
+ANTH-111-01 Intro to Cultural Anthropology 3
+ANTH-111-02 Intro to Cultural Anthropology 3
+ANTH-205-01 Theory and Methods in Anth 3
+ANTH-215-01 Anth of Supernatural and Sacre 3
+ANTH-241-01 Cultures of Africa 3
+ANTH-241-02 The Wall & Death on the Border 3
+ANTH-310-01 The Anth of Mind and Body 3
+ART-101-01 Drawing I 3
+ART-102-01 Drawing II 3
+ART-210-01 Art Concepts 3
+ART-231-01 Digital Foundations 3
+ART-260-01 Beginning Photography 3
+ART-280-01 Painting I 3
+ART-313-01 Figure Drawing I 3
+ART-314-01 Figure Drawing II 3
+ART-330-01 Video Art 3
+ART-342-01 Digital Illustration 3
+ART-360-01 Black and White Photography 3
+ART-364-01 Intermediate Photography 3
+ART-380-01 Painting II 3
+ART-381-01 Painting III 3
+ART-411-01 Senior Project 1
+ART-423-01 Painting V 3
+ART-444-01 Internship 3
+ART-480-01 Painting IV 3
+ARTA-300-01 Arts Administration Seminar 3
+ARTA-444-01 Internship I 3
+ARTA-444-02 Internship I 3
+ARTA-445-01 Internship II 3
+ARTH-201-01 Ancient to Medieval 3
+ARTH-202-01 Renaissance to Modern 3
+ARTH-350-01 History of Photography 3
+BIOL-108-01 Human Anatomy & Physiology I 4
+BIOL-108-02 Human Anatomy & Physiology I 4
+BIOL-108L-01 Anatomy & Physiology I Lab 0
+BIOL-108L-02 Anatomy & Physiology I Lab 0
+BIOL-108L-03 Anatomy & Physiology I Lab 0
+BIOL-108L-04 Anatomy & Physiology I Lab 0
+BIOL-109-01 Human Anatomy & Physiology II 4
+BIOL-109-02 Human Anatomy & Physiology II 4
+BIOL-109-03 Human Anatomy & Physiology II 4
+BIOL-109-LC01 Human Anatomy & Physiology II 4
+BIOL-109L-01 Anatomy & Physiology II Lab 0
+BIOL-109L-02 Anatomy & Physiology II Lab 0
+BIOL-109L-03 Anatomy & Physiology II Lab 0
+BIOL-109L-04 Anatomy & Physiology II Lab 0
+BIOL-109L-05 Anatomy & Physiology II Lab 0
+BIOL-109L-06 Anatomy & Physiology II Lab 0
+BIOL-109L-LC02 Anatomy & Physiology II Lab 0
+BIOL-109L-LC03 Anatomy & Physiology II Lab 0
+BIOL-113-01 Biology At the Zoo 3
+BIOL-113-02 Biology At the Zoo 3
+BIOL-113L-01 Biology At the Zoo Lab 0
+BIOL-113L-02 Biology At the Zoo Lab 0
+BIOL-113L-03 Biology At the Zoo Lab 0
+BIOL-113L-04 Biology At the Zoo Lab 0
+BIOL-114-01 Human Biol: Health & Disease 3
+BIOL-114L-01 Hum Biol: Health & Disease Lab 0
+BIOL-114L-02 Hum Biol: Health & Disease Lab 0
+BIOL-115-01 Introduction to Life Science 3
+BIOL-115L-01 Intro to Life Science Lab 0
+BIOL-115L-02 Intro to Life Science Lab 0
+BIOL-130-01 Principles of Biology 4
+BIOL-130L-01 Principles of Biology Lab 0
+BIOL-130L-02 Principles of Biology Lab 0
+BIOL-140-01 Animal Diversity 4
+BIOL-140-02 Animal Diversity 4
+BIOL-140L-01 Animal Diversity Lab 0
+BIOL-140L-02 Animal Diversity Lab 0
+BIOL-140L-04 Animal Diversity Lab 0
+BIOL-140L-05 Animal Diversity Lab 0
+BIOL-240-01 Genetics 4
+BIOL-240-02 Genetics 4
+BIOL-240L-01 Genetics Lab 0
+BIOL-240L-02 Genetics Lab 0
+BIOL-240L-03 Genetics Lab 0
+BIOL-240L-04 Genetics Lab 0
+BIOL-240L-05 Genetics Lab 0
+BIOL-300-01 Pathophysiology 3
+BIOL-300-02 Pathophysiology 3
+BIOL-317-01 Molecular Biology 4
+BIOL-317-02 Molecular Biology 4
+BIOL-317L-01 Molecular Biology Lab 0
+BIOL-317L-02 Molecular Biology Lab 0
+BIOL-317L-03 Molecular Biology Lab 0
+BIOL-319-01 Biology Research I 1
+BIOL-319-02 Biology Research I 2
+BIOL-319-03 Biology Research I 2
+BIOL-320-01 Biology Research II 2
+BIOL-410-01 Histology 4
+BIOL-410L-02 Histology Lab 0
+BIOL-419-01 Senior Research I 2
+BIOL-420-01 Senior Research II 2
+BIOL-423-01 Biology Independent Research 1
+BIOL-430-01 Evolution 3
+BIOL-435-01 Gross Anatomy 4
+BIOL-435L-01 Gross Anatomy Lab 0
+BIOL-444-01 Internship I 2
+BIOL-451H-01 Honors Biology Thesis 3
+BIOL-499-01 Senior Comprehensive Exam 0
+BMB-101-01 Explorations in Biochemistry 1
+BMB-231-01 Sophomore Ind Research Exp 1
+BMB-231-02 Sophomore Ind Research Exp 1
+BMB-231-03 Sophomore Ind Research Exp 1
+BMB-302-01 Biochemistry II 4
+BMB-302-02 Biochemistry II 4
+BMB-302L-01 Biochemistry II Lab 0
+BMB-302L-02 Biochemistry II Lab 0
+BMB-302L-03 Biochemistry II Lab 0
+BMB-317-01 Molecular Biology 4
+BMB-317-02 Molecular Biology 4
+BMB-317L-01 Molecular Biology Lab 0
+BMB-317L-02 Molecular Biology Lab 0
+BMB-317L-03 Molecular Biology Lab 0
+BMB-331-01 Jr Independent Research Exp 1
+BMB-331-02 Jr Independent Research Exp 1
+BMB-370-01 Research Methods in Biochem 3
+BMB-401-01 Advanced Biochemistry 3
+BMB-431-01 Senior Ind Research Exp 1
+BMB-431-02 Senior Ind Research Exp 1
+BMB-444-01 Internship 1
+BMB-498-ON Comp Skills Assessment 0
+BMB-499-ON Conceptual Knowledge Assessmt 0
+BU-022-01 Pioneer Scholars Program 0
+BU-100-01 First Year Focus 1
+BU-100-02 First Year Focus 1
+BU-199-01 Career Pathways Exploration 1
+BU-199-02 Career Pathways Exploration 1
+BU-250-01 Community-Based Learning Pract 1
+BU-250-02 Community-Based Learning Pract 1
+BU-250-03 Community-Based Learning Pract 1
+BU-250-04 Community-Based Learning Pract 1
+BU-250-05 Community-Based Learning Pract 1
+BU-250-06 Community-Based Learning Pract 1
+BU-250-07 Community-Based Learning Pract 1
+BU-250-08 Community-Based Learning Pract 1
+BU-250-09 Community-Based Learning Pract 1
+BU-250-10 Community-Based Learning Pract 1
+BU-250-11 Community-Based Learning Pract 1
+BU-250-12 Community-Based Learning Pract 1
+BU-299-01 Internship Prep and Success 1
+BU-299-ON Internship Prep and Success 1
+BUSA-103-01 Introduction to Business 3
+BUSA-103-02 Introduction to Business 3
+BUSA-103-03 Introduction to Business 3
+BUSA-203-01 Business Law 3
+BUSA-203-02 Business Law 3
+BUSA-206-01 Sports Law 3
+BUSA-245-01 Managing Information Tech 3
+BUSA-245-02 Managing Information Tech 3
+BUSA-301-01 Principles of Management 3
+BUSA-301-02 Principles of Management 3
+BUSA-305-01 Principles of Marketing 3
+BUSA-305-02 Principles of Marketing 3
+BUSA-305-03 Principles of Marketing 3
+BUSA-341-01 Digital Marketing 3
+BUSA-346-01 Management Science 3
+BUSA-346-02 Management Science 3
+BUSA-403-01 Advanced Business Law 3
+BUSA-410-01 New Business Ventures 3
+BUSA-420-01 Business Policy 3
+BUSA-444-01 Business Internship 3
+BUSA-499-01 Senior Comprehensive Exam 0
+BUSA-499-02 Senior Comprehensive Exam 0
+CHEM-103-01 General College Chemistry I 4
+CHEM-103L-01 General College Chem I Lab 0
+CHEM-103L-02 General College Chem I Lab 0
+CHEM-103R-01 General College Chem Pre-Lab I 0
+CHEM-103R-02 General College Chem I Pre-Lab 0
+CHEM-104-01 General College Chemistry II 4
+CHEM-104-02 General College Chemistry II 4
+CHEM-104-03 General College Chemistry II 4
+CHEM-104-04 General College Chemistry II 4
+CHEM-104L-01 General College Chem II Lab 0
+CHEM-104L-02 General College Chem II Lab 0
+CHEM-104L-03 General College Chem II Lab 0
+CHEM-104L-04 General College Chem II Lab 0
+CHEM-104L-05 General College Chem II Lab 0
+CHEM-104L-06 General College Chem II Lab 0
+CHEM-104L-07 General College Chem II Lab 0
+CHEM-104L-08 General College Chem II Lab 0
+CHEM-104R-01 General College Chem II Prelab 0
+CHEM-104R-02 General College Chem II Prelab 0
+CHEM-109-ON Liberal Arts Chemistry 3
+CHEM-109L-02 Liberal Arts Chemistry Lab 0
+CHEM-206-01 Organic Chemistry II 4
+CHEM-206-02 Organic Chemistry II 4
+CHEM-206L-01 Organic Chemistry II Lab 0
+CHEM-206L-02 Organic Chemistry II Lab 0
+CHEM-206L-03 Organic Chemistry II Lab 0
+CHEM-206L-04 Organic Chemistry II Lab 0
+CHEM-206L-05 Organic Chemistry II Lab 0
+CHEM-206R-01 Organic Chemistry II Pre-Lab 0
+CHEM-206R-02 Organic Chemistry II Pre-Lab 0
+CHEM-231-01 Soph Chemistry Research II 1
+CHEM-302-01 Biochemistry II 3
+CHEM-302-02 Biochemistry II 3
+CHEM-331-01 Junior Research II 1
+CHEM-412-01 Analytical Chemistry II 3
+CHEM-412L-01 Instrumental Chem Analysis Lab 1
+CHEM-415-01 Medicinal Chemistry 3
+CHEM-424-01 Special Topics in Chemistry 3
+CHEM-431-01 Senior Chemistry Research II 1
+CHEM-450H-01 Honors Senior Chem Research I 3
+CHEM-451H-01 Honors Senior Chem Research II 3
+CJS-100-01 Intro to Criminal Justice 3
+CJS-100-02 Intro to Criminal Justice 3
+CJS-220-01 Criminology 3
+CJS-220-02 Criminology 3
+CJS-319-01 Crime and the Media 3
+CJS-341-01 Death Penalty 3
+CJS-341-02 Inside the Criminal Courtroom 3
+CJS-444-01 Internships in Crim Justice I 3
+CJS-444-02 Internships in Crim Justice I 4
+CJS-445-01 Internships in Crim Justice II 3
+COMM-103-01 Intro to Public Speaking 3
+COMM-103-02 Intro to Public Speaking 3
+COMM-103-04 Intro to Public Speaking 3
+COMM-103-05 Intro to Public Speaking 3
+COMM-103-06 Intro to Public Speaking 3
+COMM-103-07 Intro to Public Speaking 3
+COMM-103-08 Intro to Public Speaking 3
+COMM-120-01 Grammar and Editing 3
+COMM-120-02 Grammar and Editing 3
+COMM-138-01 Digital Production Studio 3
+COMM-190-01 Television Production Lab 1
+COMM-200-01 Media and Society 3
+COMM-202-01 Fundamentals of Media Writing 3
+COMM-203-01 Business Writing 3
+COMM-205-01 Busi and Prof Comm 3
+COMM-228-01 News & Sports Broadcating II 3
+COMM-302-01 Interpersonal Communication 3
+COMM-302-02 Interpersonal Communication 3
+COMM-303-01 Intro to Communication Theory 3
+COMM-307-01 Advertising 3
+COMM-308-01 Public Relations 3
+COMM-310-01 Graphic Communication 3
+COMM-313-01 Intercultural Communication 3
+COMM-313-02 Intercultural Communication 3
+COMM-319-01 Multimedia Communication 3
+COMM-320-01 Perspectives on Digital Media 3
+COMM-324-01 Sports and Media 3
+COMM-325-01 Communication Law 3
+COMM-333-01 Media Production and Mgmt Prac 3
+COMM-400-01 Communication Ethics 3
+COMM-410-02 NEXU Agency 3
+COMM-420-01 Digital Portfolio 3
+COMM-444-01 Internship 3
+CS-131-01 The Object-Oriented Paradigm 3
+CS-131-02 The Object-Oriented Paradigm 3
+CS-221-01 Logic Design 4
+CS-221-02 Logic Design 4
+CS-300-01 Database Management Systems 3
+CS-365-01 Digital Systems Design 3
+CS-423-01 Independent Study Or Research 3
+CS-425-01 Advanced Computer Architecture 3
+CS-444-01 Internship I 0
+CS-444-02 Internship I 0
+CS-445-01 Internship II 3
+CS-450-01 Capstone 3
+DAT-401-01 Senior Capstone Project 3
+DAT-444-01 Internship 3
+DS-160-01 Intro to Data Science 3
+DS-444-01 Internship 1
+ECON-106-01 Economics of Sports 3
+ECON-110-01 Principles of Macroeconomics 3
+ECON-110-ON Principles of Macroeconomics 3
+ECON-111-ON Principles of Microeconomics 3
+ECON-232-01 Interm Macroeconomic Theory 3
+ECON-314-01 International Trade & Finance 3
+ECON-314-02 International Trade & Finance 3
+ECON-346-01 Public Economics 3
+ECON-351-ON Investment Theory 3
+ECON-441-01 Snr Sem in Economic Research 3
+ECON-444-01 Economics Internship 1
+ECON-444-02 Economics Internship 1
+ECON-499-01 Senior Comprehensive Exam 0
+ECON-499-02 Senior Comprehensive Exam 0
+EDUC-122-01 Field Based Instruction 1
+EDUC-132-01 Field-Based Instruction 1
+EDUC-220-01 Typ & Atyp Chld Dev, Pt B 3
+EDUC-220-02 Typ & Atyp Chld Dev, Pt B 3
+EDUC-229-01 School Music Methods 3
+EDUC-231-01 School Art Methods 3
+EDUC-309-01 Classroom Management Strategy 3
+EDUC-309-02 Classroom Management Strategy 3
+EDUC-312-01 Meth & Proced Chldrn w/LBD 3
+EDUC-312-02 Meth & Proced Chldrn w/LBD 3
+EDUC-315-ON Speech & Lang Dev, & Culture 3
+EDUC-316-01 Computer Applications in Edu 3
+EDUC-334-01 Literature for Childrn & Youth 3
+EDUC-334-02 Literature for Childrn & Youth 3
+EDUC-337-01 Teaching Science 3
+EDUC-337-02 Teaching Science 3
+EDUC-338-01 Teaching Social Studies 3
+EDUC-338-02 Teaching Social Studies 3
+EDUC-339-01 Teaching Writing 3
+EDUC-339-02 Teaching Writing 3
+EDUC-341-01 Spec Topics in Curr: Secondary 3
+EDUC-342-01 Teachg Secondary Schl Subjects 3
+EDUC-343-01 Spec Topics Curr: Middle Grade 3
+EDUC-355-01 Sec Classroom as Lrng Evnmt 3
+EDUC-382-ON Special Education Transition 3
+EDUC-420-01 Supervised Prof Sem: LBD&Elem 6
+EDUC-436-01 Spec Topic in Curr: Elementary 3
+EDUC-436-02 Spec Topic in Curr: Elementary 3
+EDUC-441-01 Suprvsed Prof Sem I: Secondary 6
+EDUC-442-01 Suprvsd Prof Sem II:Secondary 6
+EDUC-444-01 Internship 1
+EDUC-444-02 Internship 1
+ENGL-101-01 Intro to Academic Writing 3
+ENGL-101-02 Intro to Academic Writing 3
+ENGL-101-03 Intro to Academic Writing 3
+ENGL-101-04 Intro to Academic Writing 3
+ENGL-101-05 Intro to Academic Writing 3
+ENGL-101-06 Intro to Academic Writing 3
+ENGL-101-09 Intro to Academic Writing 3
+ENGL-200-01 Introduction to Literature 3
+ENGL-200-02 Introduction to Literature 3
+ENGL-200-03 Introduction to Literature 3
+ENGL-200-04 Introduction to Literature 3
+ENGL-200-05 Introduction to Literature 3
+ENGL-200-06 Introduction to Literature 3
+ENGL-200-07 Introduction to Literature 3
+ENGL-200-08 Introduction to Literature 3
+ENGL-200-09 Introduction to Literature 3
+ENGL-200-10 Introduction to Literature 3
+ENGL-200-11 Introduction to Literature 3
+ENGL-200H-01 Hon Lit Native Am Renaissance 3
+ENGL-200H-02 Shakespeare and Rome 3
+ENGL-201-01 The World of Texts 3
+ENGL-208-01 American Literature Survey II 3
+ENGL-210-01 British Literature Survey II 3
+ENGL-251-01 Writing Ctr Theory and Prac 1
+ENGL-299-01 Intro to the Prof of English 1
+ENGL-313-01 Creative Writing: Fiction 3
+ENGL-402-01 Modern Linguistics 3
+ENGL-422-01 Poe and Popular Culture 3
+ENGL-424-01 Advanced Creative Writing 3
+ENGL-425-01 Native American Literature 3
+ENGL-444-01 Internship I 3
+ENGL-445-01 Internship II 3
+ENGL-450-01 Integrative Seminar 3
+ENVS-111-01 Environmental Science 3
+ENVS-111-02 Environmental Science 3
+ENVS-111L-01 Environmental Science Lab 0
+ENVS-111L-02 Environmental Science Lab 0
+ENVS-111L-03 Environmental Science Lab 0
+ENVS-111L-04 Environmental Science Lab 0
+ENVS-112-01 Current Issues, Future Impacts 1
+ENVS-130-01 Understanding Planet Earth 3
+ENVS-130-02 Understanding Planet Earth 3
+ENVS-151-LC01 Understanding Environ Systems 4
+ENVS-151L-LC01 Understanding Envr Systems Lab 0
+ENVS-320-01 Environmental Geology 4
+ENVS-320L-01 Environmental Geology Lab 0
+ENVS-340-01 Aquatic Ecosystems 4
+ENVS-340L-01 Aquatic Ecosystems Lab 0
+ENVS-380-01 Environ Research & Careers 1
+ENVS-390-01 JR Environmental Research I 1
+ENVS-391-01 JR Environmental Research II 1
+ENVS-410-01 Environmental Law and Policy 3
+ENVS-420-01 SR Environmental Research I 1
+ENVS-421-01 SR Environmental Research II 1
+ENVS-444-01 Internship 1
+ENVS-444-02 Internship 1
+ENVS-490-01 Environmental Seminar 3
+EXSC-110-01 Intro to Exercise Science 3
+EXSC-140-01 Prin of Personal Wellness 3
+EXSC-140-02 Prin of Personal Wellness 3
+EXSC-140-03 Prin of Personal Wellness 3
+EXSC-240-01 Physiology of Exercise 4
+EXSC-240-02 Physiology of Exercise 4
+EXSC-240-03 Physiology of Exercise 4
+EXSC-240L-01 Physiology of Exercise Lab 0
+EXSC-240L-02 Physiology of Exercise Lab 0
+EXSC-240L-03 Physiology of Exercise Lab 0
+EXSC-240L-04 Physiology of Exercise Lab 0
+EXSC-330-01 Motor Learning 3
+EXSC-360-01 Exerc Testing and Prescription 4
+EXSC-360-02 Exerc Testing and Prescription 4
+EXSC-360L-01 Exer Testing & Prescrip Lab 0
+EXSC-360L-02 Exer Testing & Prescrip Lab 0
+EXSC-360L-03 Exer Testing & Prescrip Lab 0
+EXSC-360L-04 Exer Testing & Prescrip Lab 0
+EXSC-365-01 Health Behavior 3
+EXSC-365-02 Health Behavior 3
+EXSC-372-01 Nutrition Across the Lifespan 3
+EXSC-410-01 Prin of Athletic Conditioning 3
+EXSC-412-01 Nutrition for Athletic Perf 3
+EXSC-430-01 Exercise and Chronic Disease 3
+EXSC-444-01 Internship 3
+EXSC-480-01 Current Issues in Nutrition 3
+FILM-271-01 History of Film 3
+FILM-470-01 Broadway on Film 3
+FINA-315-01 Business Finance 3
+FINA-427-01 Topics in Corporate Finance 3
+FLIS-423-01 Independent Study 1
+FLIS-444-01 Internship 2
+FLIS-490-01 FLIS Senior Capstone 3
+FREN-102-01 Intro to French Lang & Cult II 3
+FREN-102-02 Intro to French Lang & Cult II 3
+FREN-202-01 Intermediate French II 3
+FREN-320-01 French Culture & Civilization 3
+GEOG-175-01 Intro to Human Geography 3
+GERM-102-01 Intro to German Lang & Cult II 3
+GERM-202-01 Intermediate German II 3
+GERM-212-01 German Conversation & Comp II 3
+HIST-116-01 Western World I, 1
+HIST-116-02 Western World I, 1
+HIST-116-03 Western World I, 1
+HIST-117-01 Western World II 1
+HIST-117-02 Western World II 1
+HIST-117-03 Western World II 1
+HIST-117-04 Western World II 1
+HIST-202-01 History of US 1
+HIST-202-02 History of US 1
+HIST-319-01 The Islamic World to 1
+HIST-323-01 Methodology of History 3
+HIST-324-01 Practical Historical Research 3
+HIST-419-01 US Race Relations in Film 3
+HIST-420-01 Europe Through Memoirs 3
+HIST-445-01 Intern Refugee Forced Migrtion 1
+HLTH-110-01 Intro Healthcare Professions 1
+HLTH-120-ON Medical Terminology 3
+HLTH-300-01 Overview Health Care Sysytem 3
+HLTH-321-01 Legal Iss in Health Care Deliv 3
+HLTH-331-01 Qual Assur & Perf Improvement 3
+HLTH-400-ON Health Policy 3
+HLTH-430-01 Capstone Hlth Serv Leadership 3
+HLTH-444-01 Internship 3
+HLTH-492-01 Admin in Training Internship 3
+HLTH-499-01 Comp Rev Hlth Serv Ldshp 1
+HONR-320H-01 Hon Lit Native Am Renaissance 3
+HONR-341H-01 The Kentucky Derby 3
+HONR-353H-01 Honors Jr Research Mentorship 1
+HONR-353H-02 Honors Jr Research Mentorship 1
+HONR-450H-01 Honors Senior Research 3
+HONR-451H-01 Honors Senior Thesis 3
+IDC-101-01 Exploring Community 3
+IDC-101-02 Exploring Community 3
+IDC-101-03 Exploring Community 3
+IDC-101-04 Foundations of Leadership 3
+IDC-101-05 Holocaust: a Study of Hate 3
+IDC-101-06 God, Einstein, & Baby Yoda 3
+IDC-101-07 American Family 3
+IDC-101-LC01 Death and the Corpse 3
+IDC-101-LC02 Death and the Corpse 3
+IDC-101-LC03 Deep Ecology 3
+IDC-101-LC04 God, Einstein, & Baby Yoda 3
+IDC-101-LC05 Diagnosing the Soul 3
+IDC-101-LC06 Diagnosing the Soul 3
+IDC-101-LC07 Diagnosing the Soul 3
+IDC-101-LC08 Engaging With Community 3
+IDC-101-LC09 Calling and Purpose 3
+IDC-101H-01 Hist of Environmental Thougt 3
+IDC-101H-02 Holocaust Memoir 3
+IDC-101H-03 Gender, Race, and Christianity 3
+IDC-101H-04 The Kentucky Derby 3
+IDC-101H-05 Merton & Transcendentalists 3
+IDC-401-01 Global Climate: It's Up to Us 3
+IDC-401-02 Controversies in the US 3
+IDC-401-03 Financial Empowerment 3
+IDC-401-04 Quality of Life 3
+IDC-401-05 Global Climate: It's Up to Us 3
+IDC-401-06 Justice: Whose and How? 3
+IDC-401-07 People, Land, & Power 3
+IDC-401-09 Reading the Book of Nature 3
+IDC-401-11 Theatre and Prison 3
+IDC-401-12 The Most Segregated Hour 3
+IDC-401-ON Impossible Will Take a While 3
+IDC-401H-01 Glob Dimensions Social Justice 3
+JPN-102-01 Intro to Japanese Lan&Cult II 3
+MATH-102-01 Foundations of Mathematics II 3
+MATH-102-02 Foundations of Mathematics II 3
+MATH-105-01 College Algebra 3
+MATH-107-01 Mathematics for Liberal Arts 3
+MATH-107-02 Mathematics for Liberal Arts 3
+MATH-117-01 Calculus I 4
+MATH-118-01 Calculus II 4
+MATH-118-02 Calculus II 4
+MATH-125-01 Business Calculus 4
+MATH-200-01 Statistics & Society 3
+MATH-200-02 Statistics & Society 3
+MATH-200-03 Statistics & Society 3
+MATH-205-01 Elementary Statistics 4
+MATH-205-02 Elementary Statistics 4
+MATH-205-03 Elementary Statistics 4
+MATH-205-04 Elementary Statistics 4
+MATH-205-05 Elementary Statistics 4
+MATH-205-06 Elementary Statistics 4
+MATH-205-07 Elementary Statistics 4
+MATH-205-08 Elementary Statistics 4
+MATH-205H-01 Honors Elementary Statistics 4
+MATH-215-01 Linear Algebra 3
+MATH-215-02 Linear Algebra 3
+MATH-231-01 Numbers and Proof 3
+MATH-315-01 Probability & Math Stats II 3
+MATH-332-01 Advanced Linear Algebra 3
+MATH-340-01 Introduction to Actuarial Math 3
+MATH-352-01 Stochastic Processes 3
+MATH-423-01 Advanced Abstract Algebra 3
+MATH-444-01 Internship I 3
+MATH-445-01 Internship II 3
+MATH-450-01 Mathematics Senior Capstone 3
+MATH-499-01 Mathematics Exit Exam 0
+MDLS-200-01 Infection Immunity & Genomics 4
+MDLS-200L-01 Infect Immunity & Genomics Lab 0
+MDLS-200L-02 Infect Immunity & Genomics Lab 0
+MDLS-200L-03 Infect Immunity & Genomics Lab 0
+MDLS-200L-04 Infect Immunity & Genomics Lab 0
+MDLS-317-01 Hematopathology 3
+MDLS-318-01 Hematopathology Laboratory 1
+MDLS-320-01 Med Laboratory Science Sem I 1
+MDLS-325-01 Medical Microbiology 4
+MDLS-326-01 Medical Microbiology Lab 3
+MDLS-327-ON Mycology and Parasitology 2
+MDLS-404-01 Immunohematology Techniques 2
+MDLS-430-01 Medical Lab Science Sem II 1
+MDLS-446-01 Clinical Chemistry Lab 1
+MDLS-447-01 Clinical Chemistry II 3
+MDLS-480-01 Senior Capstone Project 2
+MDLS-485-01 Clinical Internship 1
+MDLS-486-01 Comprehensive Med Lab Sci Exa 1
+MUSC-100-01 Introduction to Music Theory 3
+MUSC-100-02 Introduction to Music Theory 3
+MUSC-101-01 Music Theory I 3
+MUSC-103-01 Music in American Pop Culture 3
+MUSC-103-02 Music in American Pop Culture 3
+MUSC-105-01 Aural Skills I 1
+MUSC-105-02 Aural Skills I 1
+MUSC-200-01 Music Literature 3
+MUSC-200-02 Music Literature 3
+MUSC-201-01 Music Theory III 3
+MUSC-206-01 Aural Skills III 1
+MUSC-310-01 Junior Recital 1
+MUSC-312-01 History of Jazz 3
+MUSC-313-01 History of Opera 3
+MUSC-320-01 Conducting I 2
+MUSC-344-01 Jazz Harmony and Arranging II 2
+MUSC-355-01 Piano Literature II 2
+MUSC-401-01 History of Musical Theatre 3
+MUSC-401-02 Music of the Black Church 3
+MUSC-407-01 Form and Analysis 2
+MUSC-410-01 Senior Recital 1
+MUSC-420-01 Conducting II 2
+MUSC-444-01 Internship I 3
+MUSC-445-01 Internship II 1
+MUSE-111-01 University Singers Ensemble 0
+MUSE-113-01 Schola Cantorum Ensemble 0
+MUSE-115-01 Men's Choir Ensemble 0
+MUSE-116-01 Womens's Choir Ensemble 0
+MUSE-123-01 Chapel Music Ensemble 0
+MUSE-125-01 Chamber Winds Ensem: Sympho 0
+MUSE-127-01 Chamber Strings Ensemble 0
+MUSE-127-02 Chamber Strings Ensemble 0
+MUSE-127-03 Contemp Strings Chamber Ens 0
+MUSE-131-01 Chamber Ensemble: Bluegrass 0
+MUSE-131-02 Chamber Ensemble: Class Guitar 0
+MUSE-131-03 Chamber Ensemble: Funk 0
+MUSE-131-05 Chamber Ensemble: Trumpet 0
+MUSE-133-01 Oratorio Society Ensemble 0
+MUSE-135-01 Classical Guitar Ensemble 0
+MUSE-137-01 Brass Ensemble 0
+MUSE-142-01 Jazz Combo Ensemble 0
+MUSE-142-02 Jazz Combo Ensemble 0
+MUSE-142-03 Latin Jazz Ensemble 0
+MUSE-142-04 Jazz Combo Ensemble 0
+MUSE-146-01 Nouveau Gumbo Ensemble 0
+MUSE-151-01 Percussion Ensemble 0
+MUSE-155-01 Piano Ensemble 0
+MUSE-161-01 Flute Ensemble 0
+MUSE-173-01 Pep Band Ensemble 0
+MUSI-100-01 Beginning Piano 1
+MUSI-111-01 Applied Piano 1
+MUSI-111-02 Applied Piano 1
+MUSI-111-03 Applied Piano: Accordion 1
+MUSI-111-04 Applied Piano 1
+MUSI-113-01 Applied Organ: Harpsichord 1
+MUSI-113-02 Applied Organ 1
+MUSI-115-01 Applied Voice 1
+MUSI-115-02 Applied Voice 1
+MUSI-115-03 Applied Voice 1
+MUSI-121-01 Applied Flute 1
+MUSI-123-01 Applied Clarinet 1
+MUSI-123-02 Applied Clarinet 1
+MUSI-125-01 Applied Oboe 1
+MUSI-127-01 Applied Bassoon 1
+MUSI-131-01 Applied Saxophone 1
+MUSI-133-01 Applied Violin 1
+MUSI-135-01 Applied Viola 1
+MUSI-137-01 Applied Cello 1
+MUSI-141-01 Applied Bass Violin 1
+MUSI-143-01 Applied Trumpet 1
+MUSI-145-01 Applied Horn 1
+MUSI-151-01 Applied Trombone 1
+MUSI-153-01 Applied Euphonium 1
+MUSI-155-01 Applied Tuba 1
+MUSI-161-01 Applied Jazz Piano 1
+MUSI-163-01 Applied Jazz Guitar 1
+MUSI-165-01 Applied Jazz Bass 1
+MUSI-167-01 Applied Jazz Drum 1
+MUSI-171-01 Applied Classical Guitar 1
+MUSI-171-02 Applied Classical Guitar 1
+MUSI-173-01 Applied Mus Tech Non-Major 1
+MUSI-181-01 Applied Rock Guitar 1
+MUSI-183-01 Applied Percussion 1
+MUSI-185-01 Applied World Percussion 1
+MUSI-187-01 Applied Rock Drum 1
+MUSI-191-01 Recital Attendance 0
+MUSI-201-01 Applied Jazz Improvisation 1
+MUSI-301-01 Applied Composition 1
+MUST-150-01 Music Technology Ensemble 0
+MUST-174-01 Music Tech II: Advanced MIDI 2
+MUST-274-01 Mus Tech IV Recording Tech 2
+MUST-365-01 Music and Video Production 3
+MUST-374-01 Mus Tech VI: Junr Proj/ Recit 2
+MUST-474-01 Mus Tech VIII: Sen Proj/Recit 2
+NURS-110-01 Introduction to Nursing 3
+NURS-110-02 Introduction to Nursing 3
+NURS-110-03 Introduction to Nursing 3
+NURS-110-05 Introduction to Nursing 3
+NURS-110-06 Introduction to Nursing 3
+NURS-200-01 Nutrition 3
+NURS-200-02 Nutrition 3
+NURS-200-03 Nutrition 3
+NURS-200-04 Nutrition 3
+NURS-221-01 Prin of Drug Classification I 2
+NURS-221-02 Prin of Drug Classification I 2
+NURS-221-03 Prin of Drug Classification I 2
+NURS-221-04 Prin of Drug Classification I 2
+NURS-230-01 Nursing Process With Adults I 5
+NURS-230-02 Nursing Process With Adults I 5
+NURS-230-03 Nursing Process With Adults I 5
+NURS-230-04 Nursing Process With Adults I 5
+NURS-330-01 Nrsg Process with Women & Fam 4
+NURS-330-02 Nrsg Process with Women & Fam 4
+NURS-330-03 Nrsg Process with Women & Fam 4
+NURS-401-01 Mental Health Nursing 4
+NURS-401-02 Mental Health Nursing 4
+NURS-401-03 Mental Health Nursing 4
+NURS-430-01 Complex Health Problems 5
+NURS-430-02 Complex Health Problems 5
+NURS-430-03 Complex Health Problems 5
+NURS-455-01 Leadership and Management 4
+NURS-455-02 Leadership and Management 4
+NURS-455-03 Leadership and Management 4
+NURS-499-01 Senior Comprehensive Review 2
+NURS-499-02 Senior Comprehensive Review 2
+NURS-499-03 Senior Comprehensive Review 2
+PHIL-101-01 Introduction to Philosophy 3
+PHIL-101-02 Introduction to Philosophy 3
+PHIL-101-03 Introduction to Philosophy 3
+PHIL-101-04 Introduction to Philosophy 3
+PHIL-101-05 Introduction to Philosophy 3
+PHIL-101-06 Introduction to Philosophy 3
+PHIL-101-07 Introduction to Philosophy 3
+PHIL-101-08 Introduction to Philosophy 3
+PHIL-101-09 Introduction to Philosophy 3
+PHIL-101-10 Introduction to Philosophy 3
+PHIL-101-11 Introduction to Philosophy 3
+PHIL-101-12 Introduction to Philosophy 3
+PHIL-101H-01 Fake News and Public Trust 3
+PHIL-301-01 Ethics 3
+PHIL-301-02 Ethics 3
+PHIL-301-03 Ethics 3
+PHIL-301-04 Ethics 3
+PHIL-301-05 Ethics 3
+PHIL-301-06 Ethics 3
+PHIL-301-07 Ethics 3
+PHIL-301-08 Ethics 3
+PHIL-301-09 Ethics 3
+PHIL-301H-01 Honors Ethics 3
+PHIL-314-01 Contemporary Philosophy 3
+PHIL-323-01 Feminism 3
+PHIL-444-01 Internship 1
+PHIL-444-02 Internship 1
+PHYS-106-01 Exploration of the Universe 3
+PHYS-106-02 Exploration of the Universe 3
+PHYS-106L-01 Exploration of Universe Lab 0
+PHYS-106L-02 Exploration of Universe Lab 0
+PHYS-106L-03 Exploration of Universe Lab 0
+PHYS-202-01 College Physics II 4
+PHYS-202-02 College Physics II 4
+PHYS-202L-01 College Physics II Lab 0
+PHYS-202L-02 College Physics II Lab 0
+PHYS-202L-03 College Physics II Lab 0
+PHYS-202L-04 College Physics II Lab 0
+PHYS-202R-01 College Physics II Recitation 0
+PHYS-202R-02 College Physics II Recitation 0
+PHYS-202R-03 College Physics II Recitation 0
+PHYS-206-01 University Physics II 4
+PHYS-206L-01 University Physics II Lab 0
+PHYS-206L-02 University Physics II Lab 0
+PHYS-206R-01 Univ Physics II Recitation 0
+PHYS-211-01 Analog Electronics 4
+PHYS-211L-01 Analog Electronics Lab 0
+PHYS-211R-01 Analog Electronics Recitation 0
+PHYS-214-ON Health Science Physics 4
+PHYS-214L-01 Health Science Physics Lab 0
+PHYS-214L-02 Health Science Physics Lab 0
+PHYS-214R-01 Health Sci Physics Recitation 0
+PHYS-214R-02 Health Sci Physics Recitation 0
+PHYS-420-01 Computational Physics 4
+PHYS-420L-01 Computational Physics Lab 0
+PHYS-440-01 Particle Physics & Cosmology 3
+PHYS-440R-01 Part Phys & Cosmo Recitation 0
+PHYS-450-01 Special Topics in Physics 3
+PS-101-01 American Government 3
+PS-101-02 American Government 3
+PS-101-03 American Government 3
+PS-204-01 Modern Political Theory 3
+PS-204-02 Modern Political Theory 3
+PS-308-01 Comparative Political Systems 3
+PS-324-01 Political Parties & Elections 3
+PS-325-01 International Relations 3
+PS-347-01 Civil Liberties 3
+PS-360-01 Scope & Methods of Poli Sci 3
+PS-423-01 Constitutional Studies 1
+PS-444-01 Internship I 3
+PSYC-103-01 Introductory Psychology 3
+PSYC-103-02 Introductory Psychology 3
+PSYC-103-03 Introductory Psychology 3
+PSYC-203-01 Foundations of Psychology 3
+PSYC-203-02 Foundations of Psychology 3
+PSYC-203-03 Foundations of Psychology 3
+PSYC-203-04 Foundations of Psychology 3
+PSYC-208-01 Personality:Theories&Research 3
+PSYC-208-02 Personality:Theories&Research 3
+PSYC-214-01 Sport Psychology 3
+PSYC-214-02 Sport Psychology 3
+PSYC-218-01 Life-Span Development 3
+PSYC-218-02 Life-Span Development 3
+PSYC-218-03 Life-Span Development 3
+PSYC-218-05 Life-Span Development 3
+PSYC-230-01 Psychology of Learning 3
+PSYC-240-01 Biological Psychology 3
+PSYC-240-02 Biological Psychology 3
+PSYC-299-01 Intro to Professional Psych 1
+PSYC-299-02 Intro to Professional Psych 1
+PSYC-299-03 Intro to Professional Psych 1
+PSYC-304-01 Abnormal Psychology 3
+PSYC-304-02 Abnormal Psychology 3
+PSYC-304-03 Abnormal Psychology 3
+PSYC-310-01 Resrch Meth in Behav Science I 4
+PSYC-310-02 Resrch Meth in Behav Science I 4
+PSYC-311-01 Resrch Meth Behav Science II 3
+PSYC-313-01 Memory and Cognition 3
+PSYC-342-01 Tests, Measures and Evaluation 3
+PSYC-342-02 Tests, Measures and Evaluation 3
+PSYC-350-01 Practicum: Applied Psych III 1
+PSYC-402-01 Organiztl Behavior&Leadership 3
+PSYC-423-01 Assess Psychologic Hlth Wrkplc 3
+PSYC-423-02 Independent Study 3
+PSYC-423-03 Positive Psychology 3
+PSYC-444-01 Internship I 3
+PSYC-444-02 Internship I 2
+PSYC-445-01 Internship II 1
+PSYC-445-02 Internship II 1
+PSYC-490-01 Capstone Seminar in Psychology 3
+PSYC-490-02 Capstone Seminar in Psychology 3
+RTH-313-01 Resp Therapy Science II 4
+RTH-314-01 Resp Therapy Science II Lab 1
+RTH-330-01 Cardiopulmonary Dis Mgmt I 2
+RTH-350-01 Resp Therapy Clinical Educ II 6
+RTH-440-01 Cardiopulmonary Monitoring 3
+RTH-455-01 Adv Life Support & Emer Care 2
+RTH-470-01 Respiratory Therapy Leadership 3
+RTH-485-01 Resp Therapy Clinical Educ IV 3
+RTH-490-01 Seminar 3
+RTT-320-01 Radiation Biology 4
+RTT-321-01 Oncologic Pathology 2
+RTT-325-01 Radiation Therapy Physics 3
+RTT-391-01 Clinical Education I 3
+RTT-460-01 Registry Review 3
+RTT-461-01 Oper Issues & QA in Rad Oncol 3
+RTT-490-01 Radiation Therapy Capstone 3
+RTT-492-01 Clinical Education IV 4
+SOC-101-01 Introduction to Sociology 3
+SOC-101-02 Introduction to Sociology 3
+SOC-101-03 Introduction to Sociology 3
+SOC-101-ON Introduction to Sociology 3
+SOC-235-01 Social Inequality 3
+SOC-290-01 Sociological Theory 3
+SOC-305-01 Race and Ethnicity 3
+SOC-306-01 Juvenile Delinquency 3
+SOC-323-01 Gender & Sexuality 3
+SOC-341-01 Sociology of Deviance 3
+SOC-344-01 Internship Non-Majors II 3
+SOC-444-01 Internship I 3
+SOC-445-01 Internship II 3
+SPAN-101-01 Intro to Spanish Lan & Cult I 3
+SPAN-101-02 Intro to Spanish Lan & Cult I 3
+SPAN-102-01 Intro to Spanish Lan & Cult II 3
+SPAN-102-02 Intro to Spanish Lan & Cult II 3
+SPAN-102-03 Intro to Spanish Lan & Cult II 3
+SPAN-102-04 Intro to Spanish Lan & Cult II 3
+SPAN-102-05 Intro to Spanish Lan & Cult II 3
+SPAN-202-01 Intermediate Spanish II 3
+SPAN-212-01 Spanish Conv & Comp II 3
+SPAN-320-01 Spanish Culture & Civ 3
+SPAN-420-01 Ibero- American Cinema 3
+SPAN-444-01 Internship I 3
+SPAN-490-01 Spanish Senior Capstone 3
+SPOR-341-02 Contemp Issues:E-Sports Mgmt 3
+SPOR-401-ON Sports Administration Capstone 3
+THEA-101-01 Experiencing Theatre 3
+THEA-110-01 Beginning Acting 3
+THEA-110-02 Beginning Acting 3
+THEA-210-01 Acting Scene Study 3
+THEA-270-01 Rehearsal and Perf: Acting 1
+THEA-271-01 Rehearsal and Perf: Crew Lab I 1
+THEA-272-01 Rehearsal and Perf: Advanced 1
+THEA-290-02 Intro to Theatrical Design 3
+THEA-330-01 Directing 3
+THEA-337-01 World Theatre Empire & Rev 3
+THEA-444-01 Internship 1
+THEA-480-01 Capstone Project 3
+THEO-200-01 Ultimate Questions 3
+THEO-200-02 Ultimate Questions 3
+THEO-200-03 Ultimate Questions 3
+THEO-200-04 Ultimate Questions 3
+THEO-200-05 Ultimate Questions 3
+THEO-200-06 Ultimate Questions 3
+THEO-200-07 Ultimate Questions 3
+THEO-200-08 Ultimate Questions 3
+THEO-200-09 Ultimate Questions 3
+THEO-200-10 Ultimate Questions 3
+THEO-200-11 Ultimate Questions 3
+THEO-200-12 Ultimate Questions 3
+THEO-200-13 Ultimate Questions 3
+THEO-200H-01 Honors Ultimate Questions 3
+THEO-307-01 World Religions 3
+THEO-336-01 Theo, Nat, Env Responsibility 3
+THEO-402-01 History of Judaic Thought II 3
+THEO-420-01 Christian Ethics 3
+THEO-432-01 Jesus in Palestinian Culture 3
+THEO-432-02 Jesus in Palestinian Culture 3
+THEO-441-01 Hist of Christian Spirituality 3
+THEO-441H-01 Black Theology 3
+THEO-450-01 Moral Issues in Health Care 3
+THEO-450-02 Moral Issues in Health Care 3
+THEO-450-03 Moral Issues in Health Care 3
+THEO-499-01 Integrative Seminar 1
+WGST-490-ON Senior Capstone Seminar 3
+ATHL-522-01 Assessment: Lower Extremity 4
+ATHL-525-01 Clinical II 2
+ATHL-555-01 Interprofessional Experience 2
+ATHL-565-01 Prncpls of Therapeutic Mod 3
+ATHL-600-01 Transition to Clinical Practic 2
+ATHL-610-01 Performance Enhancement 2
+ATHL-645-01 Clinical IV 4
+ATHL-680-01 MSAT Capstone Experience 2
+COMM-600-01 Intr to Graduate Study in Comm 3
+COMM-605-01 Communication Theory and Lit 3
+COMM-609-01 Tech Comm for Digital Platform 3
+COMM-611-01 Intercultural Communication 3
+COMM-613-01 Studies in Digital Media 3
+COMM-644-01 Internship 3
+COMM-644-02 Internship 1
+COMM-692-01 Media Industries 3
+COMM-696-01 Portfolio Option 3
+COMM-699-01 Ethical Issues in Communicatio 3
+EDAD-707-01 Leading & Admin Secondary Schl 3
+EDAD-708-01 Fld Exp-Bldg-Level Ldrshp II 3
+EDAD-714-01 Legal & Resource Mgmt Issues 3
+EDRE-800-01 Research Methods 3
+EDRE-805-01 Adv Study in Qualitative Rsch 3
+EDUG-612-ON Advanced Field Placement 3
+EDUG-613-ON Adv Professional Placement 3
+EDUG-647-ON School Tech Leadership 3
+EDUG-677-ON Creating Trauma Informed Schls 3
+EDUG-683-ON Assessment in STEAM 3
+EDUG-801-01 Prof Ethics and Social Justice 3
+EDUG-802-01 Driving Change 3
+EDUG-805-01 Adv Rsch: Vulnerable Popltns 3
+EDUG-823-01 In Dpth Qual Phenomenolo Mthds 3
+EDUG-823-02 In Dpth Qual Disablty, Fam Exp 3
+EDUG-841-01 Special Topics 3
+EDUG-900-01 Dissertation 1
+HLTH-550-01 Intro to Graduate Writing 1
+HLTH-602-01 Communication & Tech in Health 3
+HLTH-602-ON Communication & Tech in Health 3
+HLTH-623-01 Independent Study 3
+HLTH-636-01 Issues in Hlth Care Leadership 3
+HLTH-646-01 Advanced Rsearch & Evidence 3
+HLTH-646-ON Healthcare Finance & Analytics 3
+HLTH-660-01 Capstone Experience 3
+HLTH-660-ON Capstone Experience 3
+HLTH-830-01 Student Assessment and Eval 3
+HLTH-840-01 Contemp Concepts Seminar 1
+HLTH-861-01 Statistics in Health Prof I 3
+HLTH-864-01 Qual Research Methods 3
+HRED-605-ON Ldrshp Admin Gov in Higher Edu 3
+HRED-610-ON Prg Assess & Eval in Higher Ed 3
+HRED-615-01 College Student: Theories 3
+HRED-620-ON Multicultural Thry, Comp, Appl 3
+HRED-635-ON Critical Issues in Higher Ed 3
+HRED-656-01 Ethics, Law & Social Justice 3
+HRED-690-ON Internship Seminar 0
+HRED-699-ON Portfolio Development 3
+HRED-700-ON Internship in Higher Education 3
+HRED-805-01 Ldrshp Admin Gov in Higher Edu 3
+HRED-810-01 Assmt Acct Afford High Ed 3
+LITR-622-ON Literacy Assess & Instruct II 3
+LITR-675-ON Literacy Leadership 3
+MAT-535-AC The Teaching of Reading 3
+MAT-540-AC Lit for Children & Youth 3
+MAT-605-SC Teaching Diverse Learners 3
+MAT-610-SC Parents, School, & Community 3
+MAT-643-SC Prof Sem: Middle Grades 5
+MAT-644-SC Prof Sem: Middle Grades 5
+MAT-648-SC Prof Sem, Secondary Education 3
+MAT-649-SC Prof Sem, Secondary Education 3
+MBA-601-01 Organizational Behavior 3
+MBA-601-EX Organizational Behavior 3
+MBA-602-01 Business Analytics 3
+MBA-602-EX Business Analytics 3
+MBA-603-EX Financial & Managerial Accting 3
+MBA-603-ON Financial & Managerial Accting 3
+MBA-604-01 Global Economy 3
+MBA-607-01 Legal & Regulatory Environment 3
+MBA-608-EX Innovation 3
+MBA-609-01 Leadership & Managing People 3
+MBA-609-02 Leadership & Managing People 3
+MBA-610-01 Applied Strategic Thinking 3
+MBA-652-01 Investment Analysis 3
+MBA-667-01 Advanced Methods in Analytics 3
+MBA-684-01 Special Topics in Marketing 3
+MBA-693-ON MBA Project 1
+MDLS-517-01 Hematopathology 3
+MDLS-518-01 Hematopathology Laboratory 1
+MDLS-520-01 MDLS Seminar I 1
+MDLS-525-01 Medical Microbiology 4
+MDLS-526-01 Medical Microbiology Lab 3
+MDLS-527-ON Med Mycology and Parasitology 2
+MDLS-546-01 Clinical Chemistry Lab 1
+MDLS-547-01 Clinical Chemistry II 3
+MDLS-661-01 Advanced MLS Practice II 3
+MDLS-681-01 MLS Capstone II 2
+MDLS-685-01 MLS Clinical Internship 1
+MDLS-686-01 Comprehensive Exam 1
+NURS-600-ON Health Policy 2
+NURS-609-ON Tchng & Lrng Health Prof Educ 4
+NURS-611-ON Advanced Physical Assessment 3
+NURS-618-01 Healthcare Admin Practicum I 2
+NURS-618-ON Healthcare Admin Practicum I 2
+NURS-620-ON Quality & Safety in Healthcare 2
+NURS-621-ON Informatics Clin Decision Mkg 3
+NURS-623-01 Inferential Statistics 2
+NURS-635-01 Nursing Administration Project 4
+NURS-639-01 Health Systems Management 3
+NURS-660-01 Primary Care II 6
+NURS-808-01 Adv Statistics for Health Sci 3
+NURS-812-ON Quality Improve & Patient Safe 3
+NURS-863-01 Adv Health Care Econ & Finance 3
+NURS-891-01 Practice Immersion I 1
+NURS-892-01 Practice Immersion II 2
+NURS-893-01 Practice Immersion III 1
+NURS-893-02 Practice Immersion III 1
+NURS-893-03 Practice Immersion III 1
+NURS-895-01 Residency 2
+NURS-896-01 Residency Ext 1
+OPED-622-01 Literacy Assess & Instruct II 0
+OPED-680-01 Bullitt Co Reading Acadmy 0
+PHIL-543-01 Bioethics 3
+PHIL-543-02 Bioethics 3
+PHIL-543-03 Bioethics 3
+PHIL-543-04 Bioethics 3
+PT-545-01 Neuroscience for PT 4
+PT-545R-01 Neuroscience Recitation 0
+PT-555-01 Orthopedics 4
+PT-565-01 Biophysical Agents 3
+PT-575-01 Hum Perf & Health Promotion II 3
+PT-590-01 Wound Care 2
+PT-592-01 Service & Commnty Learning II 2
+PT-592-02 Service & Commnty Learning II 2
+PT-592-03 Service & Commnty Learning II 2
+PT-592-04 Service & Commnty Learning II 2
+PT-592-05 Service & Commnty Learning II 2
+PT-592-06 Service & Commnty Learning II 2
+PT-592-07 Service & Commnty Learning II 2
+PT-592-08 Service & Commnty Learning II 2
+PT-592-09 Service & Commnty Learning II 2
+PT-592-10 Service & Commnty Learning II 2
+PT-592-11 Service & Commnty Learning II 2
+PT-592-12 Service & Commnty Learning II 2
+PT-592-13 Service & Commnty Learning II 2
+PT-592-14 Service & Commnty Learning II 2
+PT-592-15 Service & Commnty Learning II 2
+PT-592-16 Service & Commnty Learning II 2
+PT-592-17 Service & Commnty Learning II 2
+PT-630-01 Mgmt Adult Patient Neuro Disor 4
+PT-635-01 Differential Diag Complex Prob 3
+PT-645-01 Rehabilitation Techniques 3
+PT-650-01 Exam Eval & Intervention Spine 4
+PT-692-01 Service & Commniy Learning IV 2
+PT-692-02 Service & Commniy Learning IV 2
+PT-692-03 Service & Commniy Learning IV 2
+PT-692-04 Service & Commniy Learning IV 2
+PT-692-05 Service & Commniy Learning IV 2
+PT-692-06 Service & Commniy Learning IV 2
+PT-692-07 Service & Commniy Learning IV 2
+PT-692-08 Service & Commniy Learning IV 2
+PT-692-09 Service & Commniy Learning IV 2
+PT-692-10 Service & Commniy Learning IV 2
+PT-692-11 Service & Commniy Learning IV 2
+PT-692-12 Service & Commniy Learning IV 2
+PT-692-13 Service & Commniy Learning IV 2
+PT-692-14 Service & Commniy Learning IV 2
+PT-692-15 Service & Commniy Learning IV 2
+PT-692-16 Service & Commniy Learning IV 2
+PT-692-17 Service & Commniy Learning IV 2
+PT-730-01 PT Practice Experience III 1
+PT-750-01 Seminar 2
+PT-765-01 Clin Reasoning & Manual Th 2
+PT-765-02 Neurological Dysfunction 2
+PT-765-03 Pediatric Interventions 2
+PT-765-04 Therapeutic Exer for Athlete 2
+PT-765-05 Treatment Geriatric Client 2
+RTH-513-01 Resp Therapy Science II 4
+RTH-514-01 Resp Therapy Science II Lab 1
+RTH-530-01 Cardiopulmonary Disease Mgmt I 2
+RTH-550-01 Resp Therapy Clin Education II 6
+RTH-640-01 Adv Cardiopulmonary Monitoring 3
+RTH-655-01 Advanced Cardiac Life Support 2
+RTH-685-01 RTH Clinical Education IV 3
+RTH-690-01 Advanced Seminar 3
