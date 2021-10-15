@@ -8,7 +8,7 @@
 * Fall 2021
 */
 
-package ClassScheduler;
+package two;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;

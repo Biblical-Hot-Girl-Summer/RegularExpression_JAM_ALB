@@ -9,7 +9,7 @@
 * Fall 2021
 */
 
-package ClassScheduler;
+package two;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;

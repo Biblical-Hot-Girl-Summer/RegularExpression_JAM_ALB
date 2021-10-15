@@ -8,7 +8,7 @@
 * CS322 - Compiler Construction
 * Fall 2021
 */
-package UnixLogger;
+package three;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.HashMap;
